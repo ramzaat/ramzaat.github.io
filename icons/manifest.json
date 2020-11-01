@@ -1,14 +1,6 @@
 {
-    "name": "astapp",
-    "short_name": "astapp",
-    "start_url": ".",
-    "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A Final Fantasy XIV RP Astrologian Tarot Reading Application.",
-    "orientation": "portrait-primary",
-    "prefer_related_applications": false,
-    "icons": [
+ "name": "App",
+ "icons": [
   {
    "src": "\/android-icon-36x36.png",
    "sizes": "36x36",
